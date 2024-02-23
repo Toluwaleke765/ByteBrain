@@ -1,4 +1,4 @@
-# STOCK TRACKER
+# ByteBrain
 ### Video Demo:  <https://youtu.be/6Scn2L2lzAw>
 
 ### 💡Inspiration 💡
